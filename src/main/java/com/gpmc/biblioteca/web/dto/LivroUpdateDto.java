@@ -12,6 +12,6 @@ public class LivroUpdateDto {
     private String titulo;
     private String autor;
     private String isbn;
-    private int anoPublicacao;
-    private int quantidadeEstoque;
+    private Integer anoPublicacao;
+    private Integer quantidadeEstoque;
 }
